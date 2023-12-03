@@ -26,6 +26,12 @@ This repository contains the solution for Assignment 2 of the PMDL course, imple
   - `data`: Dataset used for evaluation.
   - `evaluate.py`: Script that performs the evaluation of the given model.
 
+## Usage
+1. Open the Collab notebook
+2. Start Pyspark session
+3. Train the model or load the pre-trained one
+4. Test using your data (put them into evaluation folder as .csv file)
+
 ## Evaluation
 
 Explain how to use the provided benchmarking script for evaluating the model's performance.
