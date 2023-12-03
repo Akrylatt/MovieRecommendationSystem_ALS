@@ -8,7 +8,7 @@ This repository contains the solution for Assignment 2 of the PMDL course, imple
 
 ## Repository Structure
 
-- `data`: This directory is organized into subdirectories for different types of data.
+- `data`: This directory is organized into subdirectories for different types of data (All data are provided as a .txt file with a link for downloading, since to upload all the files would be too heavy for github)
   - `external`: Data from third-party sources.
   - `interim`: Intermediate data that has been transformed during the process.
   - `raw`: The original, immutable data.
