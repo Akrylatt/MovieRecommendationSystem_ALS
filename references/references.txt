@@ -1,0 +1,4 @@
+https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
+https://spark.apache.org/docs/2.2.0/ml-collaborative-filtering.html
+https://github.com/Akrylatt/BigData/blob/Week9/BigData_Assignment_9A.ipynb
+http://files.grouplens.org/datasets/movielens/
