@@ -8,23 +8,23 @@ This repository contains the solution for Assignment 2 of the PMDL course, imple
 
 ## Repository Structure
 
-- **data**: This directory is organized into subdirectories for different types of data.
-  - **external**: Data from third-party sources.
-  - **interim**: Intermediate data that has been transformed during the process.
-  - **raw**: The original, immutable data.
+- `data`: This directory is organized into subdirectories for different types of data.
+  - `external`: Data from third-party sources.
+  - `interim`: Intermediate data that has been transformed during the process.
+  - `raw`: The original, immutable data.
 
-- **models**: Trained and serialized models, as well as final checkpoints.
+- `models`: Trained and serialized models, as well as final checkpoints.
 
-- **notebooks**: Jupyter notebook with the solution
+- `notebooks`: Jupyter notebook with the solution
 
-- **references**: Data dictionaries, manuals, and other explanatory materials.
+- `references`: Data dictionaries, manuals, and other explanatory materials.
 
-- **reports**: Contains the final report in PDF format.
-  - **final_report.pdf**: Comprehensive report covering data exploration, solution exploration, training process, and evaluation.
+- `reports`: Contains the final report in PDF format.
+  - `final_report.pdf`: Comprehensive report covering data exploration, solution exploration, training process, and evaluation.
 
-- **benchmark**: Includes data and scripts for evaluating the model.
-  - **data**: Dataset used for evaluation.
-  - **evaluate.py**: Script that performs the evaluation of the given model.
+- `benchmark`: Includes data and scripts for evaluating the model.
+  - `data`: Dataset used for evaluation.
+  - `evaluate.py`: Script that performs the evaluation of the given model.
 
 ## Evaluation
 
